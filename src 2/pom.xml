@@ -1,0 +1,28 @@
+<dependencies>
+    <dependency>
+        <groupId>org.jacoco</groupId>
+        <artifactId>org.jacoco.core</artifactId>
+        <version>0.8.12</version>
+    </dependency>
+    <dependency>
+        <groupId>org.ow2.asm</groupId>
+        <artifactId>asm</artifactId>
+        <version>9.7</version>
+    </dependency>
+    <dependency>
+        <groupId>org.ow2.asm</groupId>
+        <artifactId>asm-commons</artifactId>
+        <version>9.7</version>
+    </dependency>
+    <dependency>
+        <groupId>新的groupId</groupId>
+        <artifactId>新的artifactId</artifactId>
+        <version>版本号</version>
+    </dependency>
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.13.2</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
